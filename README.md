@@ -1,5 +1,6 @@
 # single-dev-env
 Example used to try a single container sample of Docker Dev Environments
+This includes GoLang from Google!
 
 ## Run the application
 You can simply use `make run` command or do it yourself with `go run main.go`
@@ -19,7 +20,7 @@ and if your request `http://localhost:8080` you'll see the following output:
   \____\_______/
 
 
-Hello from Docker!
+Greetings from d4rkf0x6!
 
 ```
 
